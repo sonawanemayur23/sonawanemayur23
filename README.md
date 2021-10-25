@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Sonawane</h1>
-- 🔭 I’m currently working on [sourcewiz](https://sourcewiz.co)
+- 🔭 I’m currently working on (https://sourcewiz.co)
 
 - 🌱 I’m currently learning **Design systems**
 
